@@ -1,6 +1,6 @@
 {
     "name": "DigiMod",
-    "version_number": "1.0.0",
+    "version_number": "1.0.1",
     "website_url": "",
     "description": "Cambia los posters de la nave, los videos de la televisión, añade un nuevo scrap y un nuevo traje.",
     "dependencies": [
